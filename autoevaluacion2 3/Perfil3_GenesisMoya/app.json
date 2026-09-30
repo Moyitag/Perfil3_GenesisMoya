@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Autoevaluacion2",
+    "slug": "autoevaluacion2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f766e"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f766e"
+      },
+      "package": "com.genesismoya.autoevaluacion2"
+    },
+    "plugins": [
+      "expo-splash-screen"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "fbf3eac5-e9fc-4480-a89e-a521453d1c29"
+      }
+    }
+  }
+}
