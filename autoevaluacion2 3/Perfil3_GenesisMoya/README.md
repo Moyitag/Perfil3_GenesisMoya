@@ -9,5 +9,5 @@ La aplicación consta de dos pantallas principales:
 1. **Pantalla 1 (Perfil):** Muestra la información personal del estudiante (Nombre, Carnet, Sección y Grupo) y cuenta con un botón de navegación hacia la segunda pantalla.
 2. **Pantalla 2 (Consumo de API):** Consume datos externos (como la API de personajes de Rick and Morty / productos / TV shows) utilizando custom hooks para separar la lógica de negocio, mostrando tarjetas reutilizables.
 ## 🔗 Enlaces de Interés
-* **Enlace de Video Demostrativo:** 
+* **Enlace de Video Demostrativo:** https://drive.google.com/file/d/10AJ3FoeQ4JVdiRIfsmSXH0IF5dDArPEK/view?usp=sharing
 * **Enlace de Descarga del APK:** https://expo.dev/accounts/genesismoya/projects/autoevaluacion2/builds/5e887e66-18d2-42a8-abc3-c32925827f17
